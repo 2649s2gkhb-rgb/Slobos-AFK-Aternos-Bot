@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "peaceyy.aternos.me",
+    "port": 58317,
+    "version": "26.2",
     "try-creative": false
   },
   "position": {
@@ -32,8 +32,8 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Subscribe to PeaceMC!",
+        "Lord Eggchan is the the greatest!"
       ]
     },
     "chat-log": true,
